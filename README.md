@@ -1,16 +1,5 @@
 # CEH v12
 
-## About
-- :notebook: Study notes for the EC-Council Certified Ethical Hacker (C|EH) v12 exam by [@MaramHarsha](https://github.com/MaramHarsha).
-
-- :rocket: These notes are published using GitBook at [https://ceh.secure-line.tech](https://ceh.secure-line.tech).
-
-- :information_source: These notes contain references to external sources as well as relevant labs to reinforce the learning concepts of the modules.
-
-## Thank you!
-- :star: Star the repository if you found these notes useful.
-- :raised_hands: Feel free to contribute by raising a [pull request](https://github.com/SecureLine-Solutions-Pvt-Ltd/CEH-Guide-V12/pulls) to this repository! A list of contributors will be maintained.
-
 ## Modules
 
 - [Module 01: Introduction to Ethical Hacking](module_01)
